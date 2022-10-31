@@ -1,0 +1,27 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/tmp.cQ6D6jqgKo
+-- The C compiler identification is GNU 8.2.0
+-- The CXX compiler identification is GNU 8.2.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building in Debug mode as requested.
+--   NOTE: You can choose a build type by calling cmake with one of:
+--     -DCMAKE_BUILD_TYPE=Release   -- full optimizations
+--     -DCMAKE_BUILD_TYPE=Debug     -- better debugging experience in gdb
+--     -DCMAKE_BUILD_TYPE=RelASan   -- full optimizations plus address and undefined-behavior sanitizers
+--     -DCMAKE_BUILD_TYPE=DebugASan -- debug plus sanitizers
+-- Found Doxygen: /usr/bin/doxygen (found version "1.8.13") found components:  doxygen dot 
+-- Found clang-format version 6
+-- Found clang-tidy version 6
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.cQ6D6jqgKo/cmake-build-debug
